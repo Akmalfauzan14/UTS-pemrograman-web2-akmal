@@ -1,1 +1,1 @@
-# UTS-pemrograman-web2-akmal
+# uts-pemrogramanweb2-akmal
